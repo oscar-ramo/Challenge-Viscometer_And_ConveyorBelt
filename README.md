@@ -13,7 +13,7 @@ The project lasted 15 weeks:
 Main contributions:
 - **Viscometer**: Full programming, LabVIEW UI design
 - **Conveyor Belt**: Stack system logic design, CAD design for stack system and conveyor belt, complete electronics
-- **Control**: Help implement modularized code structure, tuning with MATLAB
+- **Control**: Collaborated in implementing modularized code structure and tuning with MATLAB
 - **Integration**: Connected UI with the viscometer, achieved manual measurement and visualization
 
 Minor contributions:
@@ -22,7 +22,19 @@ Minor contributions:
 ---
 
 ## Repository Structure
-*(Content to be included)*
+├── Conveyor Belt CAD/                 → CAD Screenshots and Technical Drawings
+├── Viscometer CAD/                    → CAD corrections and design adjustments
+├── Electronics/                       → Schematics, PCB Design, and Final Assembly
+├── Programming/                         
+│   ├── Tests/                         → Tests made for each component 
+│   ├── Manual Programming/            → Manual control code
+│   ├── Full Programming/              → Manual + Automatic control code
+├── User Interface/                    → Backend and Frontend design
+├── Challenge_Final__5to_Semestre.pdf  → Final Technical Report
+├── LICENSE
+├── README.md
+
+---
 
 ## Mechanics
 Designed the CAD and technical drawings of the conveyor belt and stack system to be manufactured. Helped correct some problems on the final CAD design of the viscometer.
