@@ -1,4 +1,4 @@
-# Challenge-Viscometer_And_ConveyorBelt
+# Challenge - Viscometer and Conveyor Belt
 This repository contains my contributions to the 5th semester project, along with the final technical report submitted to the supervising professors, which documents the design, implementation, and results of the work.
 
 The project was about designing and implementing a mechatronic system combining a viscometer and a conveyor belt with three stations (stacking, measuring, sorting). The goal was to automate viscosity measurement and integrate it into a conveyor belt using microcontrollers and PLCs
