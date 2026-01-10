@@ -117,7 +117,7 @@ The following flowchart illustrates the operational logic of the viscometer syst
 
 > This diagram reflects the modularized structure implemented in the final code, separating manual and automatic logic for clarity and scalability.
 
-![Flow Chart](Programming/FlowDriagram.png)
+![Flow Chart](Programming/FlowDiagram.png)
 
 ### Discussions and Lessons Learned
 - **The importance of modularizing code:** The initial version of the program was not modularized, resulting in more than 900 lines within a single `main.cpp` file. This made troubleshooting difficult, slowed down development, and reduced readability.
