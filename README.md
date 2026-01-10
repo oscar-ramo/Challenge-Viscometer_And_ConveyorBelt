@@ -134,10 +134,10 @@ The following flowchart illustrates the operational logic of the viscometer syst
 - Integrated telemetry readings (piston height, spindle RPM, viscosity values) with real-time feedback.
 
 ### Backend Screenshot
-*(Backend screenshot)*
+![Backend screenshot](User_Interface/UI_BackEnd.jpg)
 
 ### Frontend Screenshot
-*(Frontend screenshot)*
+![Frontend screenshot](User_Interface/UI_FrontEnd.jpg)
 
 ### Discussions and Lessons Learned
 - **UI as a bridge between hardware and user:** LabVIEW allowed us to visualize sensor data and control actuators without needing to interact directly with the microcontroller code. This made the system more accessible and easier to test.
