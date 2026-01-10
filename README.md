@@ -54,8 +54,6 @@ Minor contributions:
 - Helped correct some problems on the final CAD design of the viscometer.
 
 ### Conveyor Belt CAD
-![Conveyor Belt Front View](Mechanics/ConveyorBelt_Front.jpg)
-![Conveyor Belt Right View](Mechanics/ConveyorBelt_Right.jpg)
 ![Conveyor Belt Isometric View](Mechanics/ConveyorBelt_Isometric.jpg)
 
 > Note: The technical drawings can be found in the Conveyor Belt CAD folder
