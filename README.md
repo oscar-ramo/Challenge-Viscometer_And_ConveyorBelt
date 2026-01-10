@@ -54,18 +54,20 @@ Minor contributions:
 - Helped correct some problems on the final CAD design of the viscometer.
 
 ### Conveyor Belt CAD
-*(Include CAD screenshots of the Conveyor Belt)*
+![Conveyor Belt Front View](Mechanics/ConveyorBelt_Front.jpg)
+![Conveyor Belt Right View](Mechanics/ConveyorBelt_Right.jpg)
+![Conveyor Belt Isometric View](Mechanics/ConveyorBelt_Isometric.jpg)
 
 > Note: The technical drawings can be found in the Conveyor Belt CAD folder
 
 ### Stack System CAD
-*(Content to be included)*
+![Stack System Isometric View](Mechanics/StackSystem_Isometric.jpg)
 
-### Conveyor Belt Results (Manufacturing)
-*(Content to be included)*
+### Stack System Results (Manufacturing)
+![Stack System Manufactured](Mechanics/StackSystem_Manufactured.jpg)
 
 ### Viscometer CAD
-*(Content to be included)*
+![Viscometer CAD, helped correct the holes](Mechanics/Viscometer_CAD.jpg)
 
 ### Discussions and Lessons Learned
 - **CAD as a critical step:** Initially, some team members considered skipping detailed CAD design, but this led to imprecise manufacturing and rework. I learned that CAD is not just a draft but a fundamental tool to ensure accuracy and reproducibility in mechatronic projects.
