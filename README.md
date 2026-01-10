@@ -83,7 +83,7 @@ Minor contributions:
 ![Stack System Schematics](Electronics/Schematic.jpg)
 
 ### Stack System PCB Design
-![PCB design](Elecronics/PCB_design.jpg)
+![PCB design](Electronics/PCB_design.jpg)
 
 ### Results (Final Assembly)
 ![PCB Final Assembly](Electronics/PCB_assembly.jpeg)
