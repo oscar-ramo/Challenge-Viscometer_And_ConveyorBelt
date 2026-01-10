@@ -80,13 +80,13 @@ Minor contributions:
 - Assisted in the electronics integration of the Viscometer.
 
 ### Stack System Schematics
-*(Content to be included)*
+![Stack System Schematics](Electronics/Schematic.jpg)
 
 ### Stack System PCB Design
-*(Content to be included)*
+![PCB design](Elecronics/PCB_design.jpg)
 
 ### Results (Final Assembly)
-*(Content to be included)*
+![PCB Final Assembly](Electronics/PCB_assembly.jpeg)
 
 ### Discussions and Lessons Learned
 - **The importance of PCB design:** Initially, the system relied on numerous cables, which made integration complex and error‑prone. Designing and implementing PCBs allowed us to reduce wiring, improve reliability, and achieve a cleaner assembly.
