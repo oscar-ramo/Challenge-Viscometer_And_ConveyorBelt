@@ -125,6 +125,7 @@ The following flowchart illustrates the operational logic of the viscometer syst
 
 ### Updates
 The *Full Programming* code was refactored for portfolio presentation with non-blocking time polling. The original version (Dec 2025) used blocking calls, which worked but didn’t meet real-time best practices.
+
 ---
 
 ## User Interface
