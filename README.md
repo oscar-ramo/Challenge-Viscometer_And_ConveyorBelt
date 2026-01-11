@@ -148,12 +148,11 @@ The *Full Programming* code was refactored for portfolio presentation with non-b
 ---
 ## Final Results
 - Viscometer full integration.
-*(Incluir video de viscosimetro con UI)*
+https://github.com/user-attachments/assets/6eeedf18-693b-4a37-bbfc-c78aa47c3b2d
 
 - Full system integration.
-*(Incluir foto de la integración de PLC con microcontrolador, sistema completo)*
-
----
+![Result1](https://github.com/user-attachments/assets/afad707b-adcc-47fc-9542-d3abe9813f02)
+![Result2](https://github.com/user-attachments/assets/9d707a97-e013-439c-a0f0-d68b06d225b2)
 
 ## Final Reflections
 - **Coordination and contingency planning:** Although we scheduled a full week for final testing and integration, unforeseen circumstances disrupted the plan. The team member responsible for PLC programming was hospitalized due to stress, and no one else was familiar with that subsystem. This highlighted the risk of depending on a single person for a critical area.
