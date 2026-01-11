@@ -32,8 +32,6 @@ Minor contributions:
 
 │   ├── Tests/                         → Tests made for each component 
 
-│   ├── Manual Programming/            → Manual control code
-
 │   ├── Full Programming/              → Manual + Automatic control code
 
 │   ├── Libraries                      → Libraries created by me
@@ -106,7 +104,7 @@ Minor contributions:
 - Changed the spindle feedback from analog to digital by applying PID control and using a MATLAB script to tune the PID parameters
 
 > Note: The test, manual, and full programming codes are included in the Programming folder. Please review the folder for further information
-> The folder includes the implementation (`src/main.cpp`), configuration (`src/definitions.h`), and libraries created by me. The external libraries provided by the professor are not included due to licensing. 
+> The folder includes the implementation (`src/main.cpp`), configuration (`src/definitions.h`), and libraries created by me. The external libraries provided by the professor are not included due to licensing.
 
 ### Programming Flow Diagram
 
@@ -125,6 +123,8 @@ The following flowchart illustrates the operational logic of the viscometer syst
 - **LabVIEW integration benefits from modularization:** Once the code was separated into classes for each component, connecting and controlling them through LabVIEW became straightforward, enabling successful manual monitoring and control of the viscometer.
 - **Hardware limitations affected automation:** The full programming (manual + automatic) could not be validated because we used only one ESP32. All available pins were consumed by manual control, leaving no capacity for automatic routines or PLC integration. This was an electronic limitation, not a logic issue.
 
+### Updates
+The *Full Programming* code was refactored for portfolio presentation with non-blocking time polling. The original version (Dec 2025) used blocking calls, which worked but didn’t meet real-time best practices.
 ---
 
 ## User Interface
